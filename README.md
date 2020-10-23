@@ -1,3 +1,5 @@
+lib ფოლდერშია main.dart ფაილი და იქ წერ ჯერ ჯერობით
+
 # flutter_basics
 
 A new Flutter application.
